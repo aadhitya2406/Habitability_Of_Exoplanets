@@ -5,7 +5,7 @@ An end-to-end Machine Learning + Web Application that predicts whether an exopla
 🔗 Live Deployment:
 👉 https://habitability-of-exoplanets-5.onrender.com
 
-📌 Project Overview
+📌 Project Overview:
 
 The search for habitable exoplanets is one of the most important challenges in modern astrophysics. This project leverages machine learning models trained on NASA Exoplanet Archive data to predict habitability based on key planetary and stellar parameters.
 
@@ -19,7 +19,7 @@ Ranking of top habitable exoplanets
 
 Scientific visualizations for analysis
 
-Web-based interactive dashboard
+Web-based interactive dashboard:
 
 🚀 Features
 🔍 Prediction
@@ -38,7 +38,7 @@ Habitability class
 
 Habitability score (0–1)
 
-🏆 Ranking
+🏆 Ranking:
 
 Displays Top 10 Habitable Exoplanets
 
@@ -46,7 +46,7 @@ Ranked using hybrid ML + rule-based scoring
 
 Real planetary data (CSV-based)
 
-📊 Visualization Dashboard
+📊 Visualization Dashboard:
 
 Habitability score distribution
 
@@ -58,7 +58,7 @@ Stellar temperature influence
 
 Feature correlation heatmap
 
-🌐 Web Interface
+🌐 Web Interface:
 
 Glassmorphism UI
 
@@ -66,7 +66,7 @@ Responsive layout
 
 Professional scientific dashboard design
 
-🧠 Machine Learning Models Used
+🧠 Machine Learning Models Used:
 
 Random Forest Classifier (Primary model)
 
@@ -78,7 +78,7 @@ XGBoost (multi-class)
 
 Hybrid scoring (ML probability + physics constraints)
 
-⚙️ Tech Stack
+⚙️ Tech Stack:
 Backend
 
 Python
@@ -115,7 +115,7 @@ Deployment
 
 Render (Free tier)
 
-🌍 Deployment Notes
+🌍 Deployment Notes:
 
 Deployed using Render Free Web Service
 
@@ -125,12 +125,12 @@ ML models load during initialization
 
 After startup, predictions are fast
 
-📚 Data Source
+📚 Data Source:
 
 NASA Exoplanet Archive
 https://exoplanetarchive.ipac.caltech.edu/
 
-🎯 Applications
+🎯 Applications:
 
 Astrophysics research assistance
 
@@ -142,7 +142,7 @@ AI + space science projects
 
 Hackathons & academic submissions
 
-📌 Future Enhancements
+📌 Future Enhancements:
 
 Real-time API integration with NASA archive
 
@@ -156,6 +156,6 @@ Mobile-friendly UI
 
 PDF/Excel export of reports
 
-🏁 Conclusion
+🏁 Conclusion:
 
 This project successfully demonstrates the integration of machine learning, scientific data, and web technologies to solve a real-world astrophysical problem. It highlights practical deployment challenges and showcases a complete ML lifecycle from data to deployment.
